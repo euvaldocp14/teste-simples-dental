@@ -35,6 +35,7 @@ log/
 target/
 *.iml
 .idea/
+.idea
 
 # Arquivos de configuração do Gradle
 .gradle/
