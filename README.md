@@ -25,7 +25,7 @@ API Rest para controle de Profissionais e Contatos
    Execute o seguinte comando, no terminal:<br />
    docker-compose up -d
 
-   Aguarde até que os conteiners estejam UP. O aplicativo estará disponível em http://localhost:8080.
+   Aguarde até que os conteiners estejam UP. O aplicativo estará disponível em http://localhost:8080/swagger-ui/index.html.
    
 ## Uso
    Foi implementado a parte de segurança da aplicação. Com isso, será necessário gerar o token de serviço, para que possa utilizar os endpoints do projeto. Para ambiente de teste, no endpoint POST
