@@ -1,0 +1,2 @@
+INSERT INTO profissional(id, nome, cargo, data_nascimento, data_criacao, ativo)
+VALUES ('dca6cae4-8c87-11ee-b9d1-0242ac120002', 'Euvaldo Costa Parente', 'DESENVOLVEDOR', '1991-05-17', '2023-11-26', true);
