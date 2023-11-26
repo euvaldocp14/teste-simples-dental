@@ -1,2 +1,0 @@
-INSERT INTO usuario (id, login, senha, pessoa_id)
-VALUES ('98820ffc-8897-11ee-b9d1-0242ac120002', 'teste', '$2a$12$PZaBYODfmjl6x6ukj8yie.PicU/TIpWerz9isjkb9KSml8HMxrx8u', '62eb12cc-8896-11ee-b9d1-0242ac120002');
