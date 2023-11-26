@@ -34,11 +34,14 @@ API Rest para controle de Profissionais e Contatos
   **Senha**: 123<br />
 
   Para os endpoints que buscam uma lista de contatos e profissionais, caso queira personalizar o response, segue os campos a serem inseridos:<br />
-  Profissional            Contato
-  nome                    nome
-  ativo                   contato
-  cargo                   dataCriacao
-  dataCriacao             nomeProfissional
-  dataNascimento
+
+  | Profissional  | Contato           |
+  | ------------- | -------------     |
+  | nome          | nome              |
+  | ativo         | contato           |
+  | cargo         | dataCriacao       |
+  | dataCriacao   | nomeProfissional  |
+  | dataNascimento|                   |
+ 
   
   
