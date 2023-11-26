@@ -27,7 +27,6 @@ services:
       - SPRING_JPA_HIBERNATE_DDL_AUTO=update
     networks:
       - postgres-compose-network
-    command: ["./wait-for-it.sh", "postgres:5432", "-timeout", "60s", "-jar", "/app.jar"]
     depends_on:
       - postgres
 
