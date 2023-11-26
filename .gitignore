@@ -1,0 +1,60 @@
+# Arquivos de compilação
+target/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Arquivos gerados automaticamente
+restdoc/
+generated/
+
+# Diretório de dependências
+lib/
+
+# Arquivos de configuração específicos do sistema
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Arquivos de configuração Maven
+log/
+target/
+*.iml
+.idea/
+
+# Arquivos de configuração do Gradle
+.gradle/
+build/
+
+# Arquivos de configuração do NetBeans
+nb-configuration.xml
+.nb-gradle/
+
+# Arquivos de configuração do Spring Boot
+application*.yml
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos de cache
+.caches/
+
+# Outros
+*.class
+*.jar
+*.war
+*.ear
